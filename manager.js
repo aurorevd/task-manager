@@ -1,0 +1,7 @@
+Prompt("Welcome to your task manager, Press:)
+if =1 console.log("to see all your tasks")
+else if =2 console.log("to add a task")
+else if =3 console.log("to delete a task")
+else if =4 console.log("to mark a task as done") 
+else if =5 console.log ("to Exit the task manager")
+else cosnole.log("nothing")
